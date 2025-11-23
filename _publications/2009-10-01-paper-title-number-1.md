@@ -2,7 +2,7 @@
 title: "Surface rupturing earthquakes of the Greater Caucasus frontal thrusts, Azerbaijan"
 collection: publications
 permalink:  https://doi.org/10.1029/2023TC007758
-excerpt: 'Here we present the results of the first paleoseismic study of the Kura fold‐thrust belt inAzerbaijan based on field mapping, fault trenching, and Quaternary dating.'
+excerpt: 'Here we present the results of the first paleoseismic study of the Kura fold‐thrust belt in Azerbaijan based on field mapping, fault trenching, and Quaternary dating.'
 date: '22 February 2024'
 venue: 'Tectonics 43(3)'
 paperurl: 'https://doi.org/10.1029/2023TC007758'
@@ -10,7 +10,7 @@ citation: 'Pierce, I., Guliyev, I., Yetirmishli, G., Muradov, R., Kazimova, S., 
 Walker, R. and Wordsworth, P., 2024. Surface rupturing earthquakes of the Greater Caucasus frontal thrusts, Azerbaijan.
 Tectonics, 43(3) doi.org/10.1029/2023TC007758'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Here we present the results of the first paleoseismic study of the Kura fold‐thrust belt in Azerbaijan based on field mapping, fault trenching, and Quaternary dating.
 
 [Download paper here](bwwjohnson.github.io/files/Tectonics-2024-Pierce-Surface_Rupturing_Earthquakes_of_the_Greater_Caucasus_Frontal_Thrusts_Azerbaijan.pdf.pdf
 
