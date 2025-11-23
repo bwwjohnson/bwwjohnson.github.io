@@ -1,15 +1,19 @@
 ---
-title: "Paper Title Number 1"
+title: "Surface rupturing earthquakes of the Greater Caucasus frontal thrusts, Azerbaijan"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink:  https://doi.org/10.1029/2023TC007758
+excerpt: 'Here we present the results of the first paleoseismic study of the Kura fold‐thrust belt inAzerbaijan based on field mapping, fault trenching, and Quaternary dating.'
+date: '22 February 2024'
+venue: 'Tectonics 43(3)'
+paperurl: 'https://doi.org/10.1029/2023TC007758'
+citation: 'Pierce, I., Guliyev, I., Yetirmishli, G., Muradov, R., Kazimova, S., Javanshir, R., De Pascale, G.P., **Johnson, B.**, Marshall, N.,
+Walker, R. and Wordsworth, P., 2024. Surface rupturing earthquakes of the Greater Caucasus frontal thrusts, Azerbaijan.
+Tectonics, 43(3) doi.org/10.1029/2023TC007758'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](bwwjohnson.github.io/files/Tectonics-2024-Pierce-Surface_Rupturing_Earthquakes_of_the_Greater_Caucasus_Frontal_Thrusts_Azerbaijan.pdf.pdf
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Pierce, I., Guliyev, I., Yetirmishli, G., Muradov, R., Kazimova, S., Javanshir, R., De Pascale, G.P., **Johnson, B.**, Marshall, N.,
+Walker, R. and Wordsworth, P., 2024. Surface rupturing earthquakes of the Greater Caucasus frontal thrusts, Azerbaijan.
+Tectonics, 43(3) doi.org/10.1029/2023TC007758
