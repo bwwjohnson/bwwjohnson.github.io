@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ben Johnson"
 title_separator          : "-"
 name                     : &name "Ben Johnson"
-description              : &description "DPhil Student in Active Tectonics at the University of Oxford"
+description              : &description "DPhil Graduate in Active Tectonics at the University of Oxford"
 url                      : https://bwwjohnson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bwwjohnson/bwwjohnson.github.io"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-9697-6910"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "BenJohnsonGeo"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
